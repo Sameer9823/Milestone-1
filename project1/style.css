@@ -1,0 +1,273 @@
+header{
+    max-width:100%;
+    margin-top: 40px;
+    display: flex;
+    
+
+}
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+div > img{
+    width: 40px;
+    
+}
+div .head{
+    display: flex;
+}
+.head > span{
+    font-size: large;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.nav-1 > a{
+    margin:0px 21px;
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+}
+.nav-1 > a:hover{
+    cursor: pointer;
+    color: #ff3300;
+} 
+div > button{
+    font-size: large;
+    width: 120px;
+    height: 45px;
+    
+    
+}
+div > button:hover{
+    color:#fff;
+    background-color: #ff3700;
+}
+
+
+.sec-1 > h1{
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-stretch: expanded;
+}
+.sec-1 > p{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-stretch: expanded;
+    border-left: 2px solid #808080;
+    padding-left: 5px;
+}
+.btn > button{
+    margin-top: 10px;
+    cursor: pointer;
+}
+.bt{
+    margin-left: 15px;
+}
+.at{
+    background-color: #ff3700;
+    color: #fff;
+}
+.arr > img{
+    mix-blend-mode:color-burn;
+    width: 130px;
+    margin-left:80%;
+}
+.main-1{
+    margin-top: 10%;
+    
+    
+    
+}
+.flex-1{
+    display: flex;
+    justify-content: space-evenly;
+    width: auto;
+    flex-wrap: wrap;
+}
+.image1{
+    width:auto;
+}
+.firstimg{
+    position: relative;
+    
+    margin-top: 20px;
+    
+}
+.firstimg > img{
+    width: 350px;
+}
+.image2{
+    position: absolute;
+    top: 35%;
+    right: 17%;
+    overflow: hidden;
+}
+.image2 > img{
+    width: 239px;
+    overflow: hidden;
+    
+}
+.sec-2{
+    position: absolute;
+    top: 32%;
+    right: 13%;
+}
+.sec-2 > img{
+    width: 355px;
+}
+.sec-3{
+    position: absolute;
+    top: 35%;
+    right: 50%;
+
+}
+.sec-3 > img{
+    width: 25px;
+}
+.sec-4{
+    position: absolute;
+    right: 35%;
+    top: 90%;
+
+}
+.sec-4 > img{
+    width: 25px;
+}
+.sec-5{
+    position: absolute;
+    right: 8%;
+    top: 70%;
+}
+.sec-5 > img{
+    width: 25px;
+    
+}
+.section-2{
+    width: auto;
+}
+.firstimg2{
+    position: relative;
+}
+.firstimg2 > img{
+    margin-top: 10px;
+    width: 340px;
+}
+.image3{
+    position: absolute;
+    top: 87%;
+    left: 27%;
+}
+.image3 > img{
+    width: 238px;
+}
+.sec-22 > img
+    {
+        width: 345px;
+        
+}
+.sec-22{
+    position: absolute;
+    top: 85%;
+}
+.sec-32{
+    position: absolute;
+    top: 84%;
+}
+.sec-32 > img{
+    width: 24px;
+}
+.sec-42{
+    position: absolute;
+
+}
+.sec-42 > img{
+    width: 24px;
+}
+.sec-52{
+    position: absolute;
+    right: 5%;
+    top: 130%;
+}
+.sec-52 > img{
+    width: 24px;
+}
+.btn2{
+    margin-top: 50px;
+}
+.btn2 > .bt1{
+    margin-left: 20px;
+}
+.at1{
+    background-color: #ff3700;
+    color: #fff;
+}
+.arr1 > img{
+    width: 100px;
+    margin-left: 60%;
+}
+footer{
+    margin-top: 50px;
+    background-color: rgb(32, 3, 58);
+    color: white;
+   
+}
+.flex-2{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    flex-wrap: wrap;
+}
+.foot1{
+    width: 40px;
+    height: 40px;
+    background-color: #00f4bb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.foot1 > h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.foot1 > img{
+     width: 20px;
+}
+.foot2{
+    width: 40px;
+    height: 40px;
+    background-color: #f44900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.foot2 > img{
+     width: 20px;
+}
+.foot3{
+    width: 40px;
+    height: 40px;
+    background-color: #003df4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.foot3 > img{
+     width: 20px;
+}
+.heading > h1{
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
